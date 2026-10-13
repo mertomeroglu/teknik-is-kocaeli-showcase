@@ -1,28 +1,24 @@
-<p align="center"><img src="assets/hero.webp" alt="Teknik İş Kocaeli shown on desktop and mobile" width="100%"></p>
+<a href="https://teknikiskocaeli.com"><img src="assets/hero.webp" alt="Teknik İş Kocaeli presentation: desktop and mobile screens of the live platform" width="100%"></a>
 
 # Teknik İş Kocaeli
 
-A local service-request platform that helps people describe technical work and connect with the appropriate service category.
+A local service-request platform that helps people describe technical work and reach the right service category.
 
-**[Visit live website](https://teknikiskocaeli.com)**
+**Live:** [teknikiskocaeli.com](https://teknikiskocaeli.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
 
-## Highlights
+### Highlights
 
 - Search-led service selection across common repair categories
-- Guided service-request flow with optional image support
+- Guided request flow with optional photos
 - Professional registration and customer account entry points
 - District-focused responsive experience for Kocaeli
 
-## Verified technology
+### Built with
 
-Next.js and React are confirmed from the live application response and public output. No unverified service metrics are presented.
+Next.js · React
 
-## Live interface
+<p align="center"><a href="https://teknikiskocaeli.com"><img src="assets/poster.webp" alt="Teknik İş Kocaeli portrait presentation with desktop and mobile screens" width="420"></a></p>
 
-<img src="assets/desktop.webp" alt="Teknik İş Kocaeli desktop homepage" width="68%"> <img src="assets/mobile.webp" alt="Teknik İş Kocaeli mobile homepage" width="27%">
+---
 
-## About this repository
-
-This presentation-only repository contains selected public screenshots, this README, and a small static introduction page. Application source and private configuration are not published here.
-
-Visual content and brand assets remain the property of their respective owners. See [LICENSE](LICENSE).
+<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
