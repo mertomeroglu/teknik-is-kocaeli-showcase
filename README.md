@@ -1,10 +1,10 @@
-<a href="https://teknikiskocaeli.com"><img src="assets/hero.webp" alt="Teknik İş Kocaeli presentation: desktop and mobile screens of the live platform" width="100%"></a>
+<a href="https://teknikiskocaeli.com"><img src="assets/cover.webp" alt="Teknik İş Kocaeli: real desktop and mobile screens of teknikiskocaeli.com" width="100%"></a>
 
 # Teknik İş Kocaeli
 
 A local service-request platform that helps people describe technical work and reach the right service category.
 
-**Live:** [teknikiskocaeli.com](https://teknikiskocaeli.com) &nbsp;·&nbsp; **More work:** [github.com/mertomeroglu](https://github.com/mertomeroglu)
+**[Visit teknikiskocaeli.com ↗︎](https://teknikiskocaeli.com)** &nbsp;·&nbsp; [More work by Mert Ömeroğlu](https://github.com/mertomeroglu)
 
 ### Highlights
 
@@ -17,8 +17,12 @@ A local service-request platform that helps people describe technical work and r
 
 Next.js · React
 
-<p align="center"><a href="https://teknikiskocaeli.com"><img src="assets/poster.webp" alt="Teknik İş Kocaeli portrait presentation with desktop and mobile screens" width="420"></a></p>
+### Screens
+
+<a href="https://teknikiskocaeli.com"><img src="assets/desktop.webp" alt="Teknik İş Kocaeli desktop: real screen of teknikiskocaeli.com" width="100%"></a>
+
+<p align="center"><img src="assets/mobile.webp" alt="Teknik İş Kocaeli on a phone: real mobile screen of teknikiskocaeli.com" width="300"></p>
 
 ---
 
-<sub>Presentation-only repository: this README and two presentation images built from real product screens. Application source and private configuration are not published here. Visual content and brand assets remain the property of their respective owners — see [LICENSE](LICENSE).</sub>
+<sub>Presentation-only repository. Images are real, unmodified product screens in a simple frame; application source and private configuration are not published here. Brands and visual content belong to their respective owners — see [LICENSE](LICENSE).</sub>
